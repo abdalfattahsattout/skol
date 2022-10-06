@@ -1,0 +1,6 @@
+Jag gjorde på ett helt annat sätt och det gick inte så bra så jag behövde ta bort allt och börja om fick lite 
+problem men det löste sig
+Fick error när jag hade loop i en loop att jag råkade ha fel bokstav på i++ flera gånger.
+Fick även error när jag försökte lägga in en string i en lista som bara ska innehålla elev strukten.
+Fick massa error när jag råkade skriva fel när försökte använda en metod som inte fanns i h filen.
+Jag hade problem när jag försökte ta bort en sak från en vector så jag fick googla lite och fick reda på en bra metod.
